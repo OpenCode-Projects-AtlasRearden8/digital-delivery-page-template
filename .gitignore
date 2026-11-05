@@ -1,5 +1,10 @@
-__pycache__/
-*.pyc
-.pytest_cache/
-site/downloads/*
 !site/downloads/.gitkeep
+*.pyc
+.env
+.env.*
+.pytest_cache/
+.venv/
+__pycache__/
+dist/*.tmp
+node_modules/
+site/downloads/*
