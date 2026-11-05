@@ -1,0 +1,182 @@
+{
+  "store": {
+    "name": "Asdale Dynamics, LLC",
+    "site_url": "https://dylanasdale.github.io",
+    "support": {
+      "title": "Need help? We are a real human away.",
+      "email": "support@example.com",
+      "response_time": "Usually within 2 business days.",
+      "extra": "When you write in, mention the product name and where you bought it, so we can help you fast."
+    },
+    "default_refund_policy": "Because these are digital downloads delivered instantly and cannot be \"returned,\" all sales are final. What you see on this page and in the product description is exactly what you get. Please review the file list, file sizes, and formats below before buying. If your download is broken, incomplete, or not as described, write to support and we will make it right with a fresh link or replacement file."
+  },
+  "products": [
+    {
+      "id": "massive-ai-manual-chapter-pack",
+      "title": "The Massive AI Manual — Chapter Pack (PDF + EPUB)",
+      "tagline": "The same plain-English chapters about AI tools, agents/MCP, and local AI, in two formats you can keep forever.",
+      "headline": "Thank you for your purchase!",
+      "subhead": "Your files are ready below. No waiting, no account needed — just click and save.",
+      "buyer_next_steps": [
+        "Click each download button below and save the files somewhere you can find them (Downloads or Desktop is fine).",
+        "Open the files and confirm they work for you today — this also locks in the \"as described\" part of the sale.",
+        "Check the license block below so you know what you can and cannot share."
+      ],
+      "files": [
+        {
+          "label": "The Massive AI Manual — Chapters 1–10 (PDF)",
+          "filename": "massive-ai-manual-ch1-10.pdf",
+          "url": "downloads/massive-ai-manual-ch1-10.pdf",
+          "size": "12.4 MB",
+          "format": "PDF",
+          "note": "Reads on any phone, tablet, or computer. Print-friendly."
+        },
+        {
+          "label": "The Massive AI Manual — Chapters 1–10 (EPUB)",
+          "filename": "massive-ai-manual-ch1-10.epub",
+          "url": "downloads/massive-ai-manual-ch1-10.epub",
+          "size": "3.1 MB",
+          "format": "EPUB",
+          "note": "Resizes nicely on e-readers like Kobo or the Apple Books app."
+        }
+      ],
+      "format_notes": "PDF works everywhere and keeps the layout fixed. EPUB reflows to fit your screen. Both contain the same words — pick the one you'll actually read.",
+      "license": {
+        "type": "Single Buyer / Personal Use",
+        "grant": "You may keep and use these files for your own personal, non-commercial reading on any of your own devices.",
+        "may": [
+          "Read on any of your own devices, forever",
+          "Print one personal copy",
+          "Copy the EPUB to your own e-reader"
+        ],
+        "may_not": [
+          "Share the files with other people",
+          "Upload to file-sharing or AI-training sites",
+          "Resell, sublicense, or republish any part of it"
+        ]
+      },
+      "refund_policy_override": null,
+      "support": {
+        "title": "Need help? We are a real human away.",
+        "email": "support@example.com",
+        "response_time": "Usually within 2 business days.",
+        "extra": "When you write in, mention the product name and where you bought it, so we can help you fast."
+      },
+      "links_last_updated": "2026-11-01"
+    },
+    {
+      "id": "ebook-reseller-launch-kit",
+      "title": "eBook Reseller Launch Kit",
+      "tagline": "Templates, checklists, and a plain-English pricing worksheet for launching a KDP or Gumroad ebook.",
+      "headline": "Thank you! Your kit is unlocked.",
+      "subhead": "Everything you paid for is below. Download all files now and keep backups — links may be refreshed over time, but saving copies today is the safe move.",
+      "buyer_next_steps": [
+        "Download every file below now, not later.",
+        "Unzip the templates folder if your device asks you to.",
+        "Skim the included README inside the zip for the recommended order of use."
+      ],
+      "files": [
+        {
+          "label": "Launch Kit Templates (ZIP)",
+          "filename": "launch-kit-templates.zip",
+          "url": "downloads/launch-kit-templates.zip",
+          "size": "6.8 MB",
+          "format": "ZIP",
+          "note": "Contains DOCX, ODT, and CSV templates."
+        },
+        {
+          "label": "Pricing Worksheet (XLSX)",
+          "filename": "ebook-pricing-worksheet.xlsx",
+          "url": "downloads/ebook-pricing-worksheet.xlsx",
+          "size": "0.4 MB",
+          "format": "XLSX",
+          "note": "Works in Excel, Google Sheets, and LibreOffice."
+        },
+        {
+          "label": "Quick-Start Guide (PDF)",
+          "filename": "launch-kit-quickstart.pdf",
+          "url": "downloads/launch-kit-quickstart.pdf",
+          "size": "1.2 MB",
+          "format": "PDF",
+          "note": "A 6-page overview. Start here."
+        }
+      ],
+      "format_notes": "All files total roughly 8.4 MB. ZIP files unzip with your built-in file manager — no extra software needed. Spreadsheets are .xlsx format, readable by Google Sheets for free.",
+      "license": {
+        "type": "Single Buyer / Commercial Use Within Your Business",
+        "grant": "You may use these templates to build and sell products for one business or publishing name.",
+        "may": [
+          "Use and edit all templates for one business or author name",
+          "Reuse the templates for unlimited products you publish",
+          "Keep copies across your devices and cloud storage"
+        ],
+        "may_not": [
+          "Resell, give away, or bundle the kit as-is or lightly edited",
+          "Share account access with buyers who did not purchase it",
+          "Claim the kit's wording as your own trademarked brand asset"
+        ]
+      },
+      "refund_policy_override": "This kit is a digital download delivered instantly, so it cannot be returned and all sales are final. You get exactly the three files described on this page — nothing more, nothing less. If a file is broken, wrong, or missing versus what is described here, contact support within 30 days and we will replace it or refund it at our discretion.",
+      "support": {
+        "title": "Questions about the kit?",
+        "email": "support@example.com",
+        "response_time": "Usually within 2 business days.",
+        "extra": "If a template misbehaves, tell us which file and which template, and we'll push a fixed copy to your link."
+      },
+      "links_last_updated": "2026-11-04"
+    },
+    {
+      "id": "paperwork-sprint-pack",
+      "title": "Paperwork Sprint Pack (Low-Energy Admin)",
+      "tagline": "ADHD-friendly forms and a 15-minute-a-day paperwork routine, printable and fillable.",
+      "headline": "Your pack is here — go easy on yourself.",
+      "subhead": "Nothing is urgent. Download the files below today if you can, but a slow day is a fine day too.",
+      "buyer_next_steps": [
+        "Download both files below and save copies.",
+        "Print the PDF, or fill it out digitally in any PDF viewer that supports forms.",
+        "Start with the one-page routine card before diving into the full pack."
+      ],
+      "files": [
+        {
+          "label": "Printable Pack (PDF, form-fillable)",
+          "filename": "paperwork-sprint-pack.pdf",
+          "url": "downloads/paperwork-sprint-pack.pdf",
+          "size": "2.9 MB",
+          "format": "PDF",
+          "note": "24 pages. Form fields work in Adobe Reader, macOS Preview, and most browsers."
+        },
+        {
+          "label": "Editable Copy (DOCX)",
+          "filename": "paperwork-sprint-pack.docx",
+          "url": "downloads/paperwork-sprint-pack.docx",
+          "size": "0.7 MB",
+          "format": "DOCX",
+          "note": "Edit wording to fit your household."
+        }
+      ],
+      "format_notes": "Total download is about 3.6 MB. The PDF includes OCR-friendly text, so your computer can search inside it. The DOCX opens in Word, Google Docs, and LibreOffice.",
+      "license": {
+        "type": "Single Buyer / Personal Use",
+        "grant": "You may use, print, and edit these files for yourself and your own household.",
+        "may": [
+          "Print unlimited personal copies",
+          "Edit the DOCX wording for your own household",
+          "Keep backups on your own cloud storage"
+        ],
+        "may_not": [
+          "Distribute to community groups, by email or print",
+          "Upload anywhere public, even edited",
+          "Use it to create a paid product"
+        ]
+      },
+      "refund_policy_override": null,
+      "support": {
+        "title": "Need help? We are a real human away.",
+        "email": "support@example.com",
+        "response_time": "Usually within 2 business days.",
+        "extra": "Low-energy days included. Even a one-line message is a fine message."
+      },
+      "links_last_updated": "2026-10-20"
+    }
+  ]
+}
